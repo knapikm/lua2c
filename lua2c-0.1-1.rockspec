@@ -6,14 +6,12 @@ source = {
   tag = "0.1-1"
 }
 description = {
-  summary = "",
-  homepage = "",
+  summary = "Tool for convert Lua modules into C modules with C API call.",
   license = "MIT"
 }
 dependencies = {
   "lua >= 5.1",
 }
-
 build = {
   type = "builtin",
   modules = {
