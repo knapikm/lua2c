@@ -1,5 +1,6 @@
 # lua2c
 Maintainer: Michal Knapík
+
 This program is slightly modified for LuaDist static builds needs.
 
 Usage: lua lua2c.lua [+]lua_filename modul_name
